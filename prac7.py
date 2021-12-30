@@ -1,0 +1,8 @@
+x=int(input("Enter the first number:-"))
+y=int(input("Enter the second number:-"))
+print(str(x)+"<"+str(y)+"="+str(x<y))
+print(str(x)+"=="+str(y)+"="+str(x==y))
+print(str(x)+"!="+str(y)+"="+str(x!=y))
+print(str(x)+">"+str(y)+"="+str(x>y))
+print(str(x)+">="+str(y)+"="+str(x>=y))
+print(str(x)+"<="+str(y)+"="+str(x<=y))
